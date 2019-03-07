@@ -1,0 +1,13 @@
+{
+    "name": "@suveshagnihotri/suvesh_test",
+    "version": "2.0.0",
+    "description": "testing module",
+    "repository": "suveshagnihotri/suvesh_test",
+    "main": "index.js",
+    "keywords": [
+        "test",
+        "npm",
+        "package",
+        "suvesh"
+    ]
+}
